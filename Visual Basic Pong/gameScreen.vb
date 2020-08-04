@@ -68,6 +68,7 @@ Public Class gameScreen
                     gameOverLabel.Visible = False
                     player1.Location = New Point(5, 177)
                     player2.Location = New Point(882, 177)
+                    ball.Location = New Point(444, 217)
                     Me.Hide()
                     mainMenu.Show()
                     mainMenu.BringToFront()
