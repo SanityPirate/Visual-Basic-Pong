@@ -7,8 +7,7 @@ because it sounded fun and I thought it would be a good demonstration of what I 
 at a large project with any kind of coding.
 
 This project helped me to define my coding style and also provided me a way to increase my proficiency at debugging. While the
-project is far from bug free, I am happy with how it turned out. It is a fully functional game created purely with Visual Basic and the
-tools it offers.
+project is far from bug-free, I am happy with how it turned out. It is a fully functional game created purely with Visual Basic.
 
 ## Future Improvements
 
@@ -18,7 +17,7 @@ If I ever decide to work on this again, there are two major things I would impro
 <li>Improving the movement of the ball (sometimes the angle it launches creates a poor gameplay experience)</li>
 </ol>
 
-As well as any additional bugfixes as necessary
+As well as any additional bugfixes as necessary.
 
 ## Video
 [![Watch the video](https://user-images.githubusercontent.com/32273966/89354076-e3427800-d685-11ea-9a1b-73a10f5d3399.PNG)](https://youtu.be/CIIMq-IcOI4)
