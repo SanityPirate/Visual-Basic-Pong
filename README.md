@@ -21,4 +21,4 @@ If I ever decide to work on this again, there are two major things I would impro
 As well as any additional bugfixes as necessary
 
 ## Video
-![](https://youtu.be/CIIMq-IcOI4)
+[![Watch the video](https://user-images.githubusercontent.com/32273966/89354076-e3427800-d685-11ea-9a1b-73a10f5d3399.PNG)](https://youtu.be/CIIMq-IcOI4)
